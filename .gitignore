@@ -1,0 +1,14 @@
+backend/target/
+backend/**/target/
+frontend/node_modules/
+frontend/dist/
+.idea/
+backend/data/
+components-*.js
+entry.client-*.js
+root-*.js
+route-*.js
+sgb-*.html
+sgb-doc.html
+新建文本文档.txt
+.DS_Store
