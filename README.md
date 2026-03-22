@@ -15,6 +15,7 @@ This workspace is dedicated to a `ToB fiat payment platform`. The current implem
   - `docs/payment-platform-blueprint.md`
   - `docs/channel-gateway-mvp.md`
   - `docs/project-overview.md`
+  - `docs/project-overview.zh-CN.md`
   - `docs/current-status.md`
 
 ## Workspace Structure
@@ -29,6 +30,7 @@ This workspace is dedicated to a `ToB fiat payment platform`. The current implem
 Recommended full project handoff doc:
 
 - `docs/project-overview.md`
+- `docs/project-overview.zh-CN.md`
 
 ## Backend Modules
 

@@ -104,6 +104,7 @@ Important files:
 - `docs/codex-project-context.md`
 - `docs/channel-gateway-mvp.md`
 - `docs/project-overview.md`
+- `docs/project-overview.zh-CN.md`
 - `docs/current-status.md`
 - `docs/sql/mysql-module-schema.sql`
 
@@ -199,6 +200,7 @@ Completed platform capabilities:
    - request and data flow
    - database split
    - current scope and missing enterprise gaps
+24. Added `docs/project-overview.zh-CN.md` as a Chinese handoff version for easier local review and future collaboration
 
 ## Current Runtime and Startup Notes
 
@@ -251,7 +253,7 @@ Best next engineering path:
 At the beginning of a new conversation, send:
 
 ```text
-Please read docs/codex-project-context.md, docs/payment-platform-blueprint.md, docs/channel-gateway-mvp.md, docs/project-overview.md, and docs/current-status.md before continuing.
+Please read docs/codex-project-context.md, docs/payment-platform-blueprint.md, docs/channel-gateway-mvp.md, docs/project-overview.md, docs/project-overview.zh-CN.md, and docs/current-status.md before continuing.
 ```
 
 Then add your next instruction, for example:
